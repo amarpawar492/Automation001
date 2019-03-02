@@ -126,8 +126,8 @@ public class TestCase3 {
 		   @AfterClass
 		  public void afterClass() 
 		  {     
-			 
-			  //report.endTest(logger);
+			 driver.close();
+			  report.endTest(logger);
 			  report.flush();
 		  }
 }
