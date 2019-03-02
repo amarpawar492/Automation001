@@ -127,7 +127,7 @@ public class TestCase3 {
 		  public void afterClass() 
 		  {     
 			 
-			  report.endTest(logger);
+			  //report.endTest(logger);
 			  report.flush();
 		  }
 }
