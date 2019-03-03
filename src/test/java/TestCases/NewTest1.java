@@ -8,6 +8,5 @@ public class NewTest1 {
   {
 	  System.out.println("Hello");
 	  System.out.println("khjdsahbjk");
-	  System.out.println("sadsafaf");
   }
 }
