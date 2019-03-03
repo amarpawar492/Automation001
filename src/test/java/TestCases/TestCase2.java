@@ -89,7 +89,7 @@ public class TestCase2
    @AfterClass
   public void afterClass() 
   {    
-	  
+	  //test
 	  //driver.close();
 	  report.endTest(logger);
 	  report.flush();
